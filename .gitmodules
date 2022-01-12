@@ -1,0 +1,12 @@
+[submodule "vim/pack/myplugin/start/auto-pairs"]
+	path = vim/pack/myplugin/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule "vim/pack/myplugin/start/vim-commentary"]
+	path = vim/pack/myplugin/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "vim/pack/myplugin/start/vim-easymotion"]
+	path = vim/pack/myplugin/start/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion
+[submodule "vim/pack/myplugin/start/vim-surround"]
+	path = vim/pack/myplugin/start/vim-surround
+	url = https://github.com/tpope/vim-surround
